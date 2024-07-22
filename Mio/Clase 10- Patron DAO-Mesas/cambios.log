@@ -1,0 +1,249 @@
+[2024-05-13 23:20:12] [ INFO ] [BD:26] tabla creada con exito
+[2024-05-13 23:20:12] [ INFO ] [MedicamentoDAOH2:26] conexion establecida
+[2024-05-13 23:20:12] [ WARN ] [MedicamentoDAOH2:36] medicamento guardado con exito
+[2024-05-13 23:20:12] [ INFO ] [MedicamentoDAOH2:49] conexion establecida
+[2024-05-13 23:20:12] [ WARN ] [MedicamentoDAOH2:62] medicamento encontrado con exito
+[2024-05-13 23:20:38] [ INFO ] [BD:26] tabla creada con exito
+[2024-05-13 23:20:38] [ INFO ] [MedicamentoDAOH2:26] conexion establecida
+[2024-05-13 23:20:38] [ WARN ] [MedicamentoDAOH2:36] medicamento guardado con exito
+[2024-05-13 23:20:38] [ INFO ] [MedicamentoDAOH2:26] conexion establecida
+[2024-05-13 23:20:38] [ WARN ] [MedicamentoDAOH2:36] medicamento guardado con exito
+[2024-05-13 23:20:38] [ INFO ] [MedicamentoDAOH2:26] conexion establecida
+[2024-05-13 23:20:38] [ WARN ] [MedicamentoDAOH2:36] medicamento guardado con exito
+[2024-05-13 23:20:38] [ INFO ] [MedicamentoDAOH2:49] conexion establecida
+[2024-05-13 23:20:38] [ WARN ] [MedicamentoDAOH2:62] medicamento encontrado con exito
+[2024-05-14 12:21:01] [ INFO ] [BD:26] tabla creada con exito
+[2024-05-14 12:21:01] [ INFO ] [MedicamentoDAOH2:26] conexion establecida
+[2024-05-14 12:21:01] [ WARN ] [MedicamentoDAOH2:36] medicamento guardado con exito
+[2024-05-14 12:21:01] [ INFO ] [MedicamentoDAOH2:26] conexion establecida
+[2024-05-14 12:21:01] [ WARN ] [MedicamentoDAOH2:36] medicamento guardado con exito
+[2024-05-14 12:21:01] [ INFO ] [MedicamentoDAOH2:26] conexion establecida
+[2024-05-14 12:21:01] [ WARN ] [MedicamentoDAOH2:36] medicamento guardado con exito
+[2024-05-14 12:21:01] [ INFO ] [MedicamentoDAOH2:49] conexion establecida
+[2024-05-14 12:21:01] [ WARN ] [MedicamentoDAOH2:62] medicamento encontrado con exito
+[2024-05-14 12:21:02] [ INFO ] [MedicamentoDAOH2:75] Conexión establecida
+[2024-05-14 12:21:02] [ WARN ] [MedicamentoDAOH2:83] Precio del medicamento actualizado con éxito
+[2024-05-14 12:21:44] [ INFO ] [BD:26] tabla creada con exito
+[2024-05-14 12:21:44] [ INFO ] [MedicamentoDAOH2:26] conexion establecida
+[2024-05-14 12:21:44] [ WARN ] [MedicamentoDAOH2:36] medicamento guardado con exito
+[2024-05-14 12:21:44] [ INFO ] [MedicamentoDAOH2:26] conexion establecida
+[2024-05-14 12:21:44] [ WARN ] [MedicamentoDAOH2:36] medicamento guardado con exito
+[2024-05-14 12:21:44] [ INFO ] [MedicamentoDAOH2:26] conexion establecida
+[2024-05-14 12:21:44] [ WARN ] [MedicamentoDAOH2:36] medicamento guardado con exito
+[2024-05-14 12:21:44] [ INFO ] [MedicamentoDAOH2:49] conexion establecida
+[2024-05-14 12:21:44] [ WARN ] [MedicamentoDAOH2:62] medicamento encontrado con exito
+[2024-05-14 12:21:44] [ INFO ] [MedicamentoDAOH2:75] Conexión establecida
+[2024-05-14 12:21:44] [ WARN ] [MedicamentoDAOH2:83] Precio del medicamento actualizado con éxito
+[2024-05-14 12:38:42] [ ERROR] [MedicamentoDAOH2:89] Error al actualizar el precio del medicamento: La base de datos puede que ya esté siendo utilizada: "C:/Users/carol.velez/c10dao.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/Users/carol.velez/c10dao.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-224]
+[2024-05-14 12:39:46] [ ERROR] [MedicamentoDAOH2:89] Error al actualizar el precio del medicamento: La base de datos puede que ya esté siendo utilizada: "C:/Users/carol.velez/c10dao.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/Users/carol.velez/c10dao.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-224]
+[2024-05-14 12:40:02] [ ERROR] [MedicamentoDAOH2:89] Error al actualizar el precio del medicamento: La base de datos puede que ya esté siendo utilizada: "C:/Users/carol.velez/c10dao.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/Users/carol.velez/c10dao.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-224]
+[2024-05-14 12:40:19] [ INFO ] [BD:26] tabla creada con exito
+[2024-05-14 12:40:19] [ INFO ] [MedicamentoDAOH2:26] conexion establecida
+[2024-05-14 12:40:19] [ WARN ] [MedicamentoDAOH2:36] medicamento guardado con exito
+[2024-05-14 12:40:19] [ INFO ] [MedicamentoDAOH2:26] conexion establecida
+[2024-05-14 12:40:19] [ WARN ] [MedicamentoDAOH2:36] medicamento guardado con exito
+[2024-05-14 12:40:19] [ INFO ] [MedicamentoDAOH2:26] conexion establecida
+[2024-05-14 12:40:19] [ WARN ] [MedicamentoDAOH2:36] medicamento guardado con exito
+[2024-05-14 12:40:19] [ INFO ] [MedicamentoDAOH2:49] conexion establecida
+[2024-05-14 12:40:19] [ WARN ] [MedicamentoDAOH2:62] medicamento encontrado con exito
+[2024-05-14 12:40:19] [ INFO ] [MedicamentoDAOH2:75] Conexión establecida
+[2024-05-14 12:40:19] [ INFO ] [MedicamentoDAOH2:49] conexion establecida
+[2024-05-14 12:40:19] [ WARN ] [MedicamentoDAOH2:62] medicamento encontrado con exito
+[2024-05-14 12:40:19] [ WARN ] [MedicamentoDAOH2:83] Precio del medicamento actualizado con éxito
+[2024-05-14 12:46:54] [ INFO ] [BD:26] tabla creada con exito
+[2024-05-14 12:46:54] [ INFO ] [MedicamentoDAOH2:26] conexion establecida
+[2024-05-14 12:46:54] [ WARN ] [MedicamentoDAOH2:36] medicamento guardado con exito
+[2024-05-14 12:46:54] [ INFO ] [MedicamentoDAOH2:26] conexion establecida
+[2024-05-14 12:46:54] [ WARN ] [MedicamentoDAOH2:36] medicamento guardado con exito
+[2024-05-14 12:46:54] [ INFO ] [MedicamentoDAOH2:26] conexion establecida
+[2024-05-14 12:46:54] [ WARN ] [MedicamentoDAOH2:36] medicamento guardado con exito
+[2024-05-14 12:46:54] [ INFO ] [MedicamentoDAOH2:49] conexion establecida
+[2024-05-14 12:46:54] [ WARN ] [MedicamentoDAOH2:62] medicamento encontrado con exito
+[2024-05-14 12:46:54] [ INFO ] [MedicamentoDAOH2:75] Conexión establecida
+[2024-05-14 12:46:54] [ INFO ] [MedicamentoDAOH2:49] conexion establecida
+[2024-05-14 12:46:54] [ WARN ] [MedicamentoDAOH2:62] medicamento encontrado con exito
+[2024-05-14 12:46:54] [ WARN ] [MedicamentoDAOH2:83] Precio del medicamento actualizado con éxito
+[2024-05-14 12:46:54] [ INFO ] [MedicamentoDAOH2:49] conexion establecida
+[2024-05-14 12:46:54] [ WARN ] [MedicamentoDAOH2:62] medicamento encontrado con exito
+[2024-05-14 12:50:44] [ INFO ] [BD:26] tabla creada con exito
+[2024-05-14 12:50:44] [ INFO ] [MedicamentoDAOH2:26] conexion establecida
+[2024-05-14 12:50:44] [ WARN ] [MedicamentoDAOH2:36] medicamento guardado con exito
+[2024-05-14 12:50:44] [ INFO ] [MedicamentoDAOH2:26] conexion establecida
+[2024-05-14 12:50:44] [ WARN ] [MedicamentoDAOH2:36] medicamento guardado con exito
+[2024-05-14 12:50:44] [ INFO ] [MedicamentoDAOH2:26] conexion establecida
+[2024-05-14 12:50:44] [ WARN ] [MedicamentoDAOH2:36] medicamento guardado con exito
+[2024-05-14 12:50:44] [ INFO ] [MedicamentoDAOH2:49] conexion establecida
+[2024-05-14 12:50:44] [ WARN ] [MedicamentoDAOH2:62] medicamento encontrado con exito
+[2024-05-14 12:50:44] [ INFO ] [MedicamentoDAOH2:75] Conexión establecida
+[2024-05-14 12:50:44] [ INFO ] [MedicamentoDAOH2:49] conexion establecida
+[2024-05-14 12:50:44] [ WARN ] [MedicamentoDAOH2:62] medicamento encontrado con exito
+[2024-05-14 12:50:44] [ WARN ] [MedicamentoDAOH2:83] Precio del medicamento actualizado con éxito
+[2024-05-14 12:50:44] [ INFO ] [MedicamentoDAOH2:49] conexion establecida
+[2024-05-14 12:50:44] [ WARN ] [MedicamentoDAOH2:62] medicamento encontrado con exito
+[2024-05-14 12:51:13] [ INFO ] [BD:26] tabla creada con exito
+[2024-05-14 12:51:13] [ INFO ] [MedicamentoDAOH2:26] conexion establecida
+[2024-05-14 12:51:13] [ WARN ] [MedicamentoDAOH2:36] medicamento guardado con exito
+[2024-05-14 12:51:13] [ INFO ] [MedicamentoDAOH2:26] conexion establecida
+[2024-05-14 12:51:13] [ WARN ] [MedicamentoDAOH2:36] medicamento guardado con exito
+[2024-05-14 12:51:13] [ INFO ] [MedicamentoDAOH2:26] conexion establecida
+[2024-05-14 12:51:13] [ WARN ] [MedicamentoDAOH2:36] medicamento guardado con exito
+[2024-05-14 12:51:13] [ INFO ] [MedicamentoDAOH2:49] conexion establecida
+[2024-05-14 12:51:13] [ WARN ] [MedicamentoDAOH2:62] medicamento encontrado con exito
+[2024-05-14 12:51:13] [ INFO ] [MedicamentoDAOH2:75] Conexión establecida
+[2024-05-14 12:51:13] [ WARN ] [MedicamentoDAOH2:83] Precio del medicamento actualizado con éxito
+[2024-05-14 12:51:13] [ INFO ] [MedicamentoDAOH2:49] conexion establecida
+[2024-05-14 12:51:13] [ WARN ] [MedicamentoDAOH2:62] medicamento encontrado con exito
+[2024-05-14 12:51:46] [ INFO ] [BD:26] tabla creada con exito
+[2024-05-14 12:51:46] [ INFO ] [MedicamentoDAOH2:26] conexion establecida
+[2024-05-14 12:51:46] [ WARN ] [MedicamentoDAOH2:36] medicamento guardado con exito
+[2024-05-14 12:51:46] [ INFO ] [MedicamentoDAOH2:26] conexion establecida
+[2024-05-14 12:51:46] [ WARN ] [MedicamentoDAOH2:36] medicamento guardado con exito
+[2024-05-14 12:51:46] [ INFO ] [MedicamentoDAOH2:26] conexion establecida
+[2024-05-14 12:51:46] [ WARN ] [MedicamentoDAOH2:36] medicamento guardado con exito
+[2024-05-14 12:51:46] [ INFO ] [MedicamentoDAOH2:49] conexion establecida
+[2024-05-14 12:51:46] [ WARN ] [MedicamentoDAOH2:62] medicamento encontrado con exito
+[2024-05-14 12:51:46] [ INFO ] [MedicamentoDAOH2:75] Conexión establecida
+[2024-05-14 12:51:46] [ WARN ] [MedicamentoDAOH2:86] No se encontró ningún medicamento para actualizar el precio
+[2024-05-14 12:52:07] [ INFO ] [BD:26] tabla creada con exito
+[2024-05-14 12:52:07] [ INFO ] [MedicamentoDAOH2:26] conexion establecida
+[2024-05-14 12:52:07] [ WARN ] [MedicamentoDAOH2:36] medicamento guardado con exito
+[2024-05-14 12:52:07] [ INFO ] [MedicamentoDAOH2:26] conexion establecida
+[2024-05-14 12:52:07] [ WARN ] [MedicamentoDAOH2:36] medicamento guardado con exito
+[2024-05-14 12:52:07] [ INFO ] [MedicamentoDAOH2:26] conexion establecida
+[2024-05-14 12:52:07] [ WARN ] [MedicamentoDAOH2:36] medicamento guardado con exito
+[2024-05-14 12:52:07] [ INFO ] [MedicamentoDAOH2:49] conexion establecida
+[2024-05-14 12:52:07] [ WARN ] [MedicamentoDAOH2:62] medicamento encontrado con exito
+[2024-05-14 12:52:07] [ INFO ] [MedicamentoDAOH2:75] Conexión establecida
+[2024-05-14 12:52:07] [ WARN ] [MedicamentoDAOH2:86] No se encontró ningún medicamento para actualizar el precio
+[2024-05-14 16:07:05] [ INFO ] [BD:26] tabla creada con exito
+[2024-05-14 16:07:05] [ INFO ] [MedicamentoDAOH2:26] conexion establecida
+[2024-05-14 16:07:05] [ WARN ] [MedicamentoDAOH2:36] medicamento guardado con exito
+[2024-05-14 16:07:05] [ INFO ] [MedicamentoDAOH2:26] conexion establecida
+[2024-05-14 16:07:05] [ WARN ] [MedicamentoDAOH2:36] medicamento guardado con exito
+[2024-05-14 16:07:05] [ INFO ] [MedicamentoDAOH2:26] conexion establecida
+[2024-05-14 16:07:05] [ WARN ] [MedicamentoDAOH2:36] medicamento guardado con exito
+[2024-05-14 16:07:05] [ INFO ] [MedicamentoDAOH2:49] conexion establecida
+[2024-05-14 16:07:05] [ WARN ] [MedicamentoDAOH2:62] medicamento encontrado con exito
+[2024-05-14 16:07:06] [ INFO ] [MedicamentoDAOH2:75] Conexión establecida
+[2024-05-14 16:07:06] [ WARN ] [MedicamentoDAOH2:83] Precio del medicamento actualizado con éxito
+[2024-05-14 16:07:06] [ INFO ] [MedicamentoDAOH2:49] conexion establecida
+[2024-05-14 16:07:06] [ WARN ] [MedicamentoDAOH2:62] medicamento encontrado con exito
+[2024-05-14 18:18:03] [ INFO ] [BD:26] tabla creada con exito
+[2024-05-14 18:18:03] [ INFO ] [MedicamentoDAOH2:26] conexion establecida
+[2024-05-14 18:18:03] [ WARN ] [MedicamentoDAOH2:36] medicamento guardado con exito
+[2024-05-14 18:18:03] [ INFO ] [MedicamentoDAOH2:26] conexion establecida
+[2024-05-14 18:18:03] [ WARN ] [MedicamentoDAOH2:36] medicamento guardado con exito
+[2024-05-14 18:18:03] [ INFO ] [MedicamentoDAOH2:26] conexion establecida
+[2024-05-14 18:18:03] [ WARN ] [MedicamentoDAOH2:36] medicamento guardado con exito
+[2024-05-14 18:18:03] [ INFO ] [MedicamentoDAOH2:49] conexion establecida
+[2024-05-14 18:18:03] [ WARN ] [MedicamentoDAOH2:62] medicamento encontrado con exito
+[2024-05-14 18:18:04] [ INFO ] [MedicamentoDAOH2:75] Conexión establecida
+[2024-05-14 18:18:04] [ WARN ] [MedicamentoDAOH2:83] Precio del medicamento actualizado con éxito
+[2024-05-14 18:18:04] [ INFO ] [MedicamentoDAOH2:49] conexion establecida
+[2024-05-14 18:18:04] [ WARN ] [MedicamentoDAOH2:62] medicamento encontrado con exito
+[2024-05-14 19:17:21] [ INFO ] [BD:26] tabla creada con exito
+[2024-05-14 19:17:21] [ INFO ] [MedicamentoDAOH2:29] conexion establecida para guardar
+[2024-05-14 19:17:21] [ WARN ] [MedicamentoDAOH2:39] medicamento guardado con exito
+[2024-05-14 19:17:21] [ INFO ] [MedicamentoDAOH2:29] conexion establecida para guardar
+[2024-05-14 19:17:21] [ WARN ] [MedicamentoDAOH2:39] medicamento guardado con exito
+[2024-05-14 19:17:21] [ INFO ] [MedicamentoDAOH2:29] conexion establecida para guardar
+[2024-05-14 19:17:21] [ WARN ] [MedicamentoDAOH2:39] medicamento guardado con exito
+[2024-05-14 19:17:21] [ INFO ] [MedicamentoDAOH2:52] conexion establecida para listar
+[2024-05-14 19:17:21] [ WARN ] [MedicamentoDAOH2:65] medicamento encontrado con exito
+[2024-05-14 19:17:22] [ INFO ] [MedicamentoDAOH2:78] Conexión establecida para actualizar
+[2024-05-14 19:17:22] [ WARN ] [MedicamentoDAOH2:86] Precio del medicamento actualizado con éxito
+[2024-05-14 19:17:22] [ INFO ] [MedicamentoDAOH2:52] conexion establecida para listar
+[2024-05-14 19:17:22] [ WARN ] [MedicamentoDAOH2:65] medicamento encontrado con exito
+[2024-05-14 19:17:22] [ INFO ] [MedicamentoDAOH2:106] conexion establecida para eliminar
+[2024-05-14 19:21:06] [ INFO ] [BD:26] tabla creada con exito
+[2024-05-14 19:21:06] [ INFO ] [MedicamentoDAOH2:29] conexion establecida para guardar
+[2024-05-14 19:21:06] [ WARN ] [MedicamentoDAOH2:39] medicamento guardado con exito
+[2024-05-14 19:21:06] [ INFO ] [MedicamentoDAOH2:29] conexion establecida para guardar
+[2024-05-14 19:21:06] [ WARN ] [MedicamentoDAOH2:39] medicamento guardado con exito
+[2024-05-14 19:21:06] [ INFO ] [MedicamentoDAOH2:29] conexion establecida para guardar
+[2024-05-14 19:21:07] [ WARN ] [MedicamentoDAOH2:39] medicamento guardado con exito
+[2024-05-14 19:21:07] [ INFO ] [MedicamentoDAOH2:52] conexion establecida para listar
+[2024-05-14 19:21:07] [ WARN ] [MedicamentoDAOH2:65] medicamento encontrado con exito
+[2024-05-14 19:21:07] [ INFO ] [MedicamentoDAOH2:78] Conexión establecida para actualizar
+[2024-05-14 19:21:07] [ WARN ] [MedicamentoDAOH2:86] Precio del medicamento actualizado con éxito
+[2024-05-14 19:21:07] [ INFO ] [MedicamentoDAOH2:52] conexion establecida para listar
+[2024-05-14 19:21:07] [ WARN ] [MedicamentoDAOH2:65] medicamento encontrado con exito
+[2024-05-14 19:21:07] [ INFO ] [MedicamentoDAOH2:106] conexion establecida para eliminar
+[2024-05-14 19:31:57] [ INFO ] [BD:26] tabla creada con exito
+[2024-05-14 19:31:57] [ INFO ] [MedicamentoDAOH2:29] conexion establecida para guardar
+[2024-05-14 19:31:57] [ WARN ] [MedicamentoDAOH2:39] medicamento guardado con exito
+[2024-05-14 19:31:57] [ INFO ] [MedicamentoDAOH2:29] conexion establecida para guardar
+[2024-05-14 19:31:57] [ WARN ] [MedicamentoDAOH2:39] medicamento guardado con exito
+[2024-05-14 19:31:57] [ INFO ] [MedicamentoDAOH2:29] conexion establecida para guardar
+[2024-05-14 19:31:57] [ WARN ] [MedicamentoDAOH2:39] medicamento guardado con exito
+[2024-05-14 19:31:57] [ INFO ] [MedicamentoDAOH2:52] conexion establecida para listar
+[2024-05-14 19:31:57] [ WARN ] [MedicamentoDAOH2:65] medicamento encontrado con exito
+[2024-05-14 19:31:58] [ INFO ] [MedicamentoDAOH2:78] Conexión establecida para actualizar
+[2024-05-14 19:31:58] [ WARN ] [MedicamentoDAOH2:86] Precio del medicamento actualizado con éxito
+[2024-05-14 19:31:58] [ INFO ] [MedicamentoDAOH2:52] conexion establecida para listar
+[2024-05-14 19:31:58] [ WARN ] [MedicamentoDAOH2:65] medicamento encontrado con exito
+[2024-05-14 19:31:58] [ INFO ] [MedicamentoDAOH2:105] Conexión establecida para eliminar
+[2024-05-14 19:31:58] [ WARN ] [MedicamentoDAOH2:114] Medicamento eliminado con éxito
+[2024-05-14 19:41:35] [ INFO ] [BD:26] tabla creada con exito
+[2024-05-14 19:41:35] [ INFO ] [MedicamentoDAOH2:31] conexion establecida para guardar
+[2024-05-14 19:41:35] [ WARN ] [MedicamentoDAOH2:41] medicamento guardado con exito
+[2024-05-14 19:41:35] [ INFO ] [MedicamentoDAOH2:31] conexion establecida para guardar
+[2024-05-14 19:41:35] [ WARN ] [MedicamentoDAOH2:41] medicamento guardado con exito
+[2024-05-14 19:41:35] [ INFO ] [MedicamentoDAOH2:31] conexion establecida para guardar
+[2024-05-14 19:41:35] [ WARN ] [MedicamentoDAOH2:41] medicamento guardado con exito
+[2024-05-14 19:41:35] [ INFO ] [MedicamentoDAOH2:54] conexion establecida para listar
+[2024-05-14 19:41:35] [ WARN ] [MedicamentoDAOH2:67] medicamento encontrado con exito
+[2024-05-14 19:41:35] [ INFO ] [MedicamentoDAOH2:80] Conexión establecida para actualizar
+[2024-05-14 19:41:35] [ WARN ] [MedicamentoDAOH2:88] Precio del medicamento actualizado con éxito
+[2024-05-14 19:41:35] [ INFO ] [MedicamentoDAOH2:54] conexion establecida para listar
+[2024-05-14 19:41:35] [ WARN ] [MedicamentoDAOH2:67] medicamento encontrado con exito
+[2024-05-14 19:41:35] [ INFO ] [MedicamentoDAOH2:108] Conexión establecida para eliminar
+[2024-05-14 19:41:35] [ WARN ] [MedicamentoDAOH2:117] Medicamento eliminado con éxito
+[2024-05-14 19:57:32] [ INFO ] [BD:26] tabla creada con exito
+[2024-05-14 19:57:32] [ INFO ] [MedicamentoDAOH2:31] conexion establecida para guardar
+[2024-05-14 19:57:32] [ WARN ] [MedicamentoDAOH2:41] medicamento guardado con exito
+[2024-05-14 19:57:32] [ INFO ] [MedicamentoDAOH2:31] conexion establecida para guardar
+[2024-05-14 19:57:32] [ WARN ] [MedicamentoDAOH2:41] medicamento guardado con exito
+[2024-05-14 19:57:32] [ INFO ] [MedicamentoDAOH2:31] conexion establecida para guardar
+[2024-05-14 19:57:32] [ WARN ] [MedicamentoDAOH2:41] medicamento guardado con exito
+[2024-05-14 19:57:32] [ INFO ] [MedicamentoDAOH2:54] conexion establecida para listar
+[2024-05-14 19:57:32] [ WARN ] [MedicamentoDAOH2:67] medicamento encontrado con exito
+[2024-05-14 19:57:33] [ INFO ] [MedicamentoDAOH2:80] Conexión establecida para actualizar
+[2024-05-14 19:57:33] [ WARN ] [MedicamentoDAOH2:88] Precio del medicamento actualizado con éxito
+[2024-05-14 19:57:33] [ INFO ] [MedicamentoDAOH2:54] conexion establecida para listar
+[2024-05-14 19:57:33] [ WARN ] [MedicamentoDAOH2:67] medicamento encontrado con exito
+[2024-05-14 19:57:33] [ INFO ] [MedicamentoDAOH2:107] Conexión establecida para eliminar
+[2024-05-14 19:57:33] [ WARN ] [MedicamentoDAOH2:116] Medicamento eliminado con éxito
+[2024-05-14 20:03:37] [ INFO ] [BD:26] tabla creada con exito
+[2024-05-14 20:03:37] [ INFO ] [MedicamentoDAOH2:31] conexion establecida para guardar
+[2024-05-14 20:03:37] [ WARN ] [MedicamentoDAOH2:41] medicamento guardado con exito
+[2024-05-14 20:03:37] [ INFO ] [MedicamentoDAOH2:31] conexion establecida para guardar
+[2024-05-14 20:03:37] [ WARN ] [MedicamentoDAOH2:41] medicamento guardado con exito
+[2024-05-14 20:03:37] [ INFO ] [MedicamentoDAOH2:31] conexion establecida para guardar
+[2024-05-14 20:03:37] [ WARN ] [MedicamentoDAOH2:41] medicamento guardado con exito
+[2024-05-14 20:03:37] [ INFO ] [MedicamentoDAOH2:54] conexion establecida para listar
+[2024-05-14 20:03:37] [ WARN ] [MedicamentoDAOH2:67] medicamento encontrado con exito
+[2024-05-14 20:03:37] [ INFO ] [MedicamentoDAOH2:80] Conexión establecida para actualizar
+[2024-05-14 20:03:37] [ WARN ] [MedicamentoDAOH2:88] Precio del medicamento actualizado con éxito
+[2024-05-14 20:03:37] [ INFO ] [MedicamentoDAOH2:54] conexion establecida para listar
+[2024-05-14 20:03:37] [ WARN ] [MedicamentoDAOH2:67] medicamento encontrado con exito
+[2024-05-14 20:03:37] [ INFO ] [MedicamentoDAOH2:107] Conexión establecida para eliminar
+[2024-05-14 20:03:37] [ WARN ] [MedicamentoDAOH2:116] Medicamento eliminado con éxito
+[2024-05-27 23:07:33] [ INFO ] [BD:26] tabla creada con exito
+[2024-05-27 23:07:33] [ INFO ] [MedicamentoDAOH2:31] conexion establecida para guardar
+[2024-05-27 23:07:33] [ WARN ] [MedicamentoDAOH2:41] medicamento guardado con exito
+[2024-05-27 23:07:33] [ INFO ] [MedicamentoDAOH2:31] conexion establecida para guardar
+[2024-05-27 23:07:33] [ WARN ] [MedicamentoDAOH2:41] medicamento guardado con exito
+[2024-05-27 23:07:33] [ INFO ] [MedicamentoDAOH2:31] conexion establecida para guardar
+[2024-05-27 23:07:33] [ WARN ] [MedicamentoDAOH2:41] medicamento guardado con exito
+[2024-05-27 23:07:33] [ INFO ] [MedicamentoDAOH2:54] conexion establecida para listar
+[2024-05-27 23:07:33] [ WARN ] [MedicamentoDAOH2:67] medicamento encontrado con exito
+[2024-05-27 23:07:33] [ INFO ] [MedicamentoDAOH2:80] Conexión establecida para actualizar
+[2024-05-27 23:07:33] [ WARN ] [MedicamentoDAOH2:88] Precio del medicamento actualizado con éxito
+[2024-05-27 23:07:33] [ INFO ] [MedicamentoDAOH2:54] conexion establecida para listar
+[2024-05-27 23:07:33] [ WARN ] [MedicamentoDAOH2:67] medicamento encontrado con exito
+[2024-05-27 23:07:33] [ INFO ] [MedicamentoDAOH2:107] Conexión establecida para eliminar
+[2024-05-27 23:07:33] [ WARN ] [MedicamentoDAOH2:116] Medicamento eliminado con éxito
